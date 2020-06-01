@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>D:\IOT\Labs3\microcontrollers\Assembly\AssemblerApplication1\AssemblerApplication1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\IOT\Labs3\microcontrollers\Assembly\AssemblerApplication1\AssemblerApplication1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\IOT\Labs3\microcontrollers\Assembly\AssemblerApplication1\AssemblerApplication1\Debug\AssemblerApplication1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication1.map</FILE>
+  <FILE>AssemblerApplication1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <setup><FILE>D:\IOT\Labs3\microcontrollers\Assembly\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>61</LINE></setup>
+  <Timer5CompAVect><FILE>D:\IOT\Labs3\microcontrollers\Assembly\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>27</LINE></Timer5CompAVect>
+  <first_skip><FILE>D:\IOT\Labs3\microcontrollers\Assembly\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>43</LINE></first_skip>
+  <right_shift><FILE>D:\IOT\Labs3\microcontrollers\Assembly\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>49</LINE></right_shift>
+  <return><FILE>D:\IOT\Labs3\microcontrollers\Assembly\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>37</LINE></return>
+  <main><FILE>D:\IOT\Labs3\microcontrollers\Assembly\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>104</LINE></main>
+  <end_timer><FILE>D:\IOT\Labs3\microcontrollers\Assembly\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>94</LINE></end_timer>
+  <first><FILE>D:\IOT\Labs3\microcontrollers\Assembly\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>121</LINE></first>
+  <second><FILE>D:\IOT\Labs3\microcontrollers\Assembly\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>137</LINE></second>
+  <first_loop><FILE>D:\IOT\Labs3\microcontrollers\Assembly\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>128</LINE></first_loop>
+  <second_loop><FILE>D:\IOT\Labs3\microcontrollers\Assembly\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>147</LINE></second_loop>
+ </LABELS>
+</ASSEMBLER_INFO>
